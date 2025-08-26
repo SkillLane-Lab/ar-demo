@@ -7,6 +7,8 @@ https://skilllane-lab.github.io/ar-demo/index.html
 https://skilllane-lab.github.io/ar-demo/camera-iframe.html
 ```
 
+![qrcode ar demo](/assets/images/qrcode-ar-demo.png)
+
 Demo Simulations from PhET
 
 ```
